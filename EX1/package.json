@@ -1,0 +1,23 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "Primeiro exercício de Electron",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurFreitass/Desenvolvimento-Desktop.git"
+  },
+  "author": "Arthur Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurFreitass/Desenvolvimento-Desktop/issues"
+  },
+  "homepage": "https://github.com/ArthurFreitass/Desenvolvimento-Desktop#readme",
+  "devDependencies": {
+    "electron": "^39.0.0"
+  }
+}
